@@ -1,5 +1,5 @@
 /*******************************************************
-*                  Lab 1: Blinking an LED              *
+*                 Comp 1: Blinking an LED              *
 *     We will be using digital write to blink an LED   *
 ********************************************************/
 

@@ -1,7 +1,7 @@
 /*****************************************************************
-*                 Lab 4: Using the buzzer                        *
+*                 Comp 2: Using the buzzer                       *
 *           We will be changing the frequency of a               *
-*            square wave to make the buzzer buzz                  *
+*            square wave to make the buzzer buzz                 *
 *****************************************************************/
 
 //This variable will be the BUZZER Pin 

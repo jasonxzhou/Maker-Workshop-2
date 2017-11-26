@@ -1,6 +1,6 @@
 /*****************************************************************
-*                 Lab 5: Music Player                            *
-*      Now we will play music based on the photoresistor input       *
+*                    Comp 3: Music Player                        *
+*    Now we will play music based on the photoresistor input     *
 *****************************************************************/
 
 //This variable will be the BUZZER Pin 
