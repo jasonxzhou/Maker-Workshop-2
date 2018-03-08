@@ -1,4 +1,4 @@
-#  Maker Workshops Spring 2018
+#  Service Projects: Spring 2018
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jasonxzhou/Maker-Workshop-2/master)
 
