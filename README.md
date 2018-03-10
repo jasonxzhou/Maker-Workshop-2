@@ -1,6 +1,6 @@
 #  Service Projects: Spring 2018
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jasonxzhou/Maker-Workshop-2/master)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jasonxzhou/Maker-Workshop-2/master) <- Click to get started
 
 This repository contains all workshop/hackathon projects for events hosted by UC Berkeley's Eta Kappa Nu (HKN) Chapter.
 
